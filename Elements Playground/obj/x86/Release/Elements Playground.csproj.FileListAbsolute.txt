@@ -1,0 +1,8 @@
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\bin\Release\Elements Playground.exe
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\bin\Release\Elements Playground.pdb
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\obj\x86\Release\Elements Playground.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\obj\x86\Release\Elements_Playground.GameForm.resources
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\obj\x86\Release\Elements_Playground.Properties.Resources.resources
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\obj\x86\Release\Elements Playground.csproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\obj\x86\Release\Elements Playground.exe
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\obj\x86\Release\Elements Playground.pdb

@@ -1,0 +1,16 @@
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\obj\x86\Debug\Elements Playground.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\obj\x86\Debug\Elements_Playground.GameForm.resources
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\obj\x86\Debug\Elements_Playground.Properties.Resources.resources
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\obj\x86\Debug\Elements Playground.csproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\bin\Debug\Elements Playground.exe
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\bin\Debug\Elements Playground.pdb
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\obj\x86\Debug\Elements Playground.exe
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\Elements Playground\Elements Playground\obj\x86\Debug\Elements Playground.pdb
+C:\Users\natha\Downloads\Elements Playgroung\Elements Playground\Elements Playground\obj\x86\Debug\Elements Playground.exe
+C:\Users\natha\Downloads\Elements Playgroung\Elements Playground\Elements Playground\obj\x86\Debug\Elements Playground.pdb
+C:\Users\natha\Downloads\Elements Playgroung\Elements Playground\Elements Playground\bin\Debug\Elements Playground.exe
+C:\Users\natha\Downloads\Elements Playgroung\Elements Playground\Elements Playground\bin\Debug\Elements Playground.pdb
+C:\Users\natha\Downloads\Elements Playgroung\Elements Playground\Elements Playground\obj\x86\Debug\Elements Playground.csprojResolveAssemblyReference.cache
+C:\Users\natha\Downloads\Elements Playgroung\Elements Playground\Elements Playground\obj\x86\Debug\Elements_Playground.GameForm.resources
+C:\Users\natha\Downloads\Elements Playgroung\Elements Playground\Elements Playground\obj\x86\Debug\Elements_Playground.Properties.Resources.resources
+C:\Users\natha\Downloads\Elements Playgroung\Elements Playground\Elements Playground\obj\x86\Debug\Elements Playground.csproj.GenerateResource.Cache
